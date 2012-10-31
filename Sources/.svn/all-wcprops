@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources
+END
+ReaderMainPagebar.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderMainPagebar.h
+END
+ThumbsMainToolbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ThumbsMainToolbar.h
+END
+ReaderMainToolbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderMainToolbar.h
+END
+ReaderThumbCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderThumbCache.m
+END
+ReaderContentView.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderContentView.m
+END
+ReaderMainPagebar.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderMainPagebar.m
+END
+ThumbsMainToolbar.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ThumbsMainToolbar.m
+END
+ReaderMainToolbar.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderMainToolbar.m
+END
+ReaderViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderViewController.h
+END
+ThumbsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ThumbsViewController.h
+END
+ReaderViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderViewController.m
+END
+ThumbsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ThumbsViewController.m
+END
+ReaderThumbQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderThumbQueue.h
+END
+ReaderThumbRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderThumbRequest.h
+END
+ReaderContentTile.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderContentTile.h
+END
+ReaderThumbQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderThumbQueue.m
+END
+ReaderThumbRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderThumbRequest.m
+END
+ReaderContentTile.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderContentTile.m
+END
+CGPDFDocument.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/CGPDFDocument.h
+END
+CGPDFDocument.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/CGPDFDocument.m
+END
+ReaderContentPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderContentPage.h
+END
+ReaderThumbView.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderThumbView.h
+END
+ReaderContentPage.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderContentPage.m
+END
+ReaderDocumentOutline.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderDocumentOutline.h
+END
+ReaderThumbView.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderThumbView.m
+END
+ReaderThumbRender.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderThumbRender.h
+END
+ReaderDocumentOutline.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderDocumentOutline.m
+END
+ReaderThumbRender.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderThumbRender.m
+END
+ReaderThumbFetch.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderThumbFetch.h
+END
+ReaderThumbsView.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderThumbsView.h
+END
+ReaderThumbFetch.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderThumbFetch.m
+END
+UIXToolbarView.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/UIXToolbarView.h
+END
+ReaderThumbsView.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderThumbsView.m
+END
+ReaderThumbCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderThumbCache.h
+END
+ReaderContentView.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/ReaderContentView.h
+END
+UIXToolbarView.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/Sources/UIXToolbarView.m
+END

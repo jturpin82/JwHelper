@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/CoreData
+END
+DocumentFolder.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/CoreData/DocumentFolder.h
+END
+CoreDataManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/CoreData/CoreDataManager.h
+END
+UserInfos.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/siteweb/!svn/ver/886/JwHelper/trunk/JwHelper/CoreData/UserInfos.h
+END
+DocumentFolder.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/CoreData/DocumentFolder.m
+END
+ReaderDocument.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/CoreData/ReaderDocument.h
+END
+CoreDataManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/siteweb/!svn/ver/878/JwHelper/trunk/JwHelper/CoreData/CoreDataManager.m
+END
+UserInfos.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/siteweb/!svn/ver/886/JwHelper/trunk/JwHelper/CoreData/UserInfos.m
+END
+ReaderDocument.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/siteweb/!svn/ver/861/JwHelper/trunk/JwHelper/CoreData/ReaderDocument.m
+END
